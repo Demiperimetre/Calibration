@@ -1,0 +1,40 @@
+\begin{thebibliography}{}
+
+\bibitem[Ankenman et~al., 2010]{ankenman}
+Ankenman, B., Nelson, B.~L., and Staum, J. (2010).
+\newblock Stochastic kriging for simulation metamodeling.
+\newblock {\em Operations Research}, 58(2):371--382.
+
+\bibitem[Binois et~al., 2018]{Binois2018JCGS}
+Binois, M., Gramacy, R.~B., and Ludkovski, M. (2018).
+\newblock Practical heteroscedastic {G}aussian process modeling for large
+  simulation experiments.
+\newblock {\em Journal of Computational and Graphical Statistics},
+  27(4):808--821.
+
+\bibitem[Goldberg et~al., 1997]{Goldberg1998regression}
+Goldberg, P.~W., Williams, C.~K., and Bishop, C.~M. (1997).
+\newblock Regression with input-dependent noise: a {G}aussian process
+  treatment.
+\newblock In {\em Proceedings of the 10th International Conference on Neural
+  Information Processing Systems}, pages 493--499.
+
+\bibitem[Sung et~al., 2019]{sung2019calibration}
+Sung, C.-L., Barber, B.~D., and Walker, B.~J. (2019).
+\newblock Calibration of computer models with heteroscedastic errors and
+  application to plant relative growth rates.
+\newblock {\em arXiv preprint arXiv:1910.11518}.
+
+\bibitem[Tuo et~al., 2015]{tuo2015efficient}
+Tuo, R., Wu, C.~J., et~al. (2015).
+\newblock Efficient calibration for imperfect computer models.
+\newblock {\em The Annals of Statistics}, 43(6):2331--2352.
+
+\bibitem[Wilkinson, 2013]{wilkinson2013approximate}
+Wilkinson, R.~D. (2013).
+\newblock Approximate {B}ayesian computation (abc) gives exact results under
+  the assumption of model error.
+\newblock {\em Statistical Applications in Genetics and Molecular Biology},
+  12(2):129--141.
+
+\end{thebibliography}

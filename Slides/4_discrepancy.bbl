@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem[Bayarri et~al., 2007]{bayarri2007}
+Bayarri, M.~J., Berger, J.~O., Paulo, R., Sacks, J., Cafeo, J.~A., Cavendish,
+  J., Lin, C.-H., and Tu, J. (2007).
+\newblock A framework for validation of computer models.
+\newblock {\em Technometrics}, 49(2):138--154.
+
+\bibitem[Gu and Wang, 2018]{gu2017}
+Gu, M. and Wang, L. (2018).
+\newblock Scaled gaussian stochastic process for computer model calibration and
+  prediction.
+\newblock {\em SIAM/ASA Journal on Uncertainty Quantification},
+  6(4):1555--1583.
+
+\bibitem[Tuo et~al., 2015]{tuo2015efficient}
+Tuo, R., Wu, C.~J., et~al. (2015).
+\newblock Efficient calibration for imperfect computer models.
+\newblock {\em The Annals of Statistics}, 43(6):2331--2352.
+
+\bibitem[Tuo and Wu, 2016]{tuo2016theoretical}
+Tuo, R. and Wu, J. (2016).
+\newblock A theoretical framework for calibration in computer models:
+  parametrization, estimation and convergence properties.
+\newblock {\em SIAM/ASA Journal on Uncertainty Quantification}, 4(1):767--795.
+
+\bibitem[Wong et~al., 2017]{wong2017}
+Wong, R.~K., Storlie, C.~B., and Lee, T. (2017).
+\newblock A frequentist approach to computer model calibration.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 79(2):635--648.
+
+\end{thebibliography}
