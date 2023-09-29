@@ -1,6 +1,0 @@
-\babel@toc {english}{}
-\beamer@sectionintoc {1}{Statistical Models}{2}{0}{1}
-\beamer@sectionintoc {2}{Heteroskedastic GP}{5}{0}{2}
-\beamer@sectionintoc {3}{Calibration}{8}{0}{3}
-\beamer@subsectionintoc {3}{1}{KOH}{9}{0}{3}
-\beamer@subsectionintoc {3}{2}{ABC}{13}{0}{3}
